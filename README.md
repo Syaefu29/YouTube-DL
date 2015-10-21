@@ -1,4 +1,4 @@
-# Youtube-DL
+# YouTube-DL
 Simple Python script to download Youtube videos.
 
 Based on Shell script guide from Dr. Mark Humphrys:
